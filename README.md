@@ -115,10 +115,10 @@ Para que el cambio de filamento se realice correctamente, debes configurar tu **
 - 📄 [Documentación oficial de Klipper](https://www.klipper3d.org/)
 - 💬 Soporte en [Klipperianos Whatsapp](https://chat.whatsapp.com/IHaUnmBsNPnJ1kDIenCrmT)
 
-ENCUENTRAME EN REDES SOCIALES="## 📢 Conéctate conmigo\n\n\
+REDE_SOCIALES="## 📢 Conéctate conmigo\n\n\
 🔗 **TikTok:** [Fuzion3D](https://www.tiktok.com/@fuzion3d)\n\
 📸 **Instagram:** [Fuzion3D Crea](https://www.instagram.com/fuzion3dcrea)\n\
 🎥 **YouTube:** [Fuzion3D Crea](https://youtube.com/@fuzion3dcrea)\n\
-💬 **Soporte:**  [Klipperianos Whatsapp](https://chat.whatsapp.com/IHaUnmBsNPnJ1kDIenCrmT)\n"
+💬 **WhatsApp:** [Klipperianos Whatsapp](https://chat.whatsapp.com/IHaUnmBsNPnJ1kDIenCrmT)\n"
 
 Si encuentras útil esta macro, ⭐ ¡dale una estrella a este repositorio en GitHub! 🚀
