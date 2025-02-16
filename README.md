@@ -1,5 +1,9 @@
 # 🎨 Macro M600 para Cambio de Filamento en Klipper
 
+<p align="center">
+  <img src="m600v.png" alt="Ender 3 Neo con Klipper" width="1000"/>
+</p>
+
 ## 📌 Descripción
 
 Esta macro permite realizar cambios de filamento en impresoras 3D con Klipper sin generar sobreextrusión al reanudar la impresión. Está optimizada para evitar residuos en la pieza y garantizar una transición de color limpia.
