@@ -4,6 +4,8 @@
 
 Esta macro permite realizar cambios de filamento en impresoras 3D con Klipper sin generar sobreextrusión al reanudar la impresión. Está optimizada para evitar residuos en la pieza y garantizar una transición de color limpia.
 
+Este Macro esta basado en una impresora "Artillery Sidewinder X4 Pro" pero funciona en cualquier maquina con Klipper, exceptuando el PIN bepper que debe ser ajustado a tu configuracion
+
 ### 🔹 ¿Qué hace esta macro?
 ✅ Pausa la impresión automáticamente al llegar al cambio de color/filamento.  
 ✅ Retrae el filamento y carga el nuevo sin extrusión excesiva.  
