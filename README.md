@@ -4,6 +4,8 @@
   <img src="m600v.png" alt="Ender 3 Neo con Klipper" width="1000"/>
 </p>
 
+<a href="https://www.buymeacoffee.com/fuzion3d"><img src="https://img.buymeacoffee.com/button-api/?text=Apoya al creador&emoji=&slug=fuzion3d&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" /></a>
+
 ## 📌 Descripción
 
 Esta macro permite realizar cambios de filamento en impresoras 3D con Klipper sin generar sobreextrusión al reanudar la impresión. Está optimizada para evitar residuos en la pieza y garantizar una transición de color limpia.
