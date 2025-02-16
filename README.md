@@ -115,7 +115,7 @@ Para que el cambio de filamento se realice correctamente, debes configurar tu **
 - 📄 [Documentación oficial de Klipper](https://www.klipper3d.org/)
 - 💬 Soporte en [Klipperianos Whatsapp](https://chat.whatsapp.com/IHaUnmBsNPnJ1kDIenCrmT)
 
-📢 **Conéctate conmigo 📢
+## 📢 Conéctate conmigo 📢
 
 - 🔗 **TikTok:** [Fuzion3D](https://www.tiktok.com/@fuzion3d)
 - 📸 **Instagram:** [Fuzion3D Crea](https://www.instagram.com/fuzion3dcrea)
