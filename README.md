@@ -1,4 +1,4 @@
-# 🎨 Macro M600 para Cambio de Filamento en Klipper
+# 🎨 Macro M600 para Cambio de Filamento en Klipper 
 
 <p align="center">
   <img src="m600v.png" alt="Ender 3 Neo con Klipper" width="1000"/>
@@ -130,4 +130,10 @@ Para que el cambio de filamento se realice correctamente, debes configurar tu **
 - 🎥 **YouTube:** [Fuzion3D Crea](https://youtube.com/@fuzion3dcrea)
 - 💬 **WhatsApp:** [Klipperianos Whatsapp](https://chat.whatsapp.com/IHaUnmBsNPnJ1kDIenCrmT)
 
-Si encuentras útil esta macro, ⭐ ¡dale una estrella a este repositorio en GitHub! 🚀
+¡Únete a la comunidad y comparte tus creaciones con nosotros! 🚀🔥
+
+## ☕ ¡Apoya al Creador!  
+
+Si este proyecto te ha sido útil y quieres contribuir a futuros desarrollos, considera invitarme a un café. Tu apoyo ayuda a mejorar y mantener este contenido disponible para toda la comunidad.  
+
+[![Apoya al creador](https://img.buymeacoffee.com/button-api/?text=Apoya%20al%20creador&emoji=&slug=fuzion3d&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/fuzion3d)
